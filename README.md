@@ -2,7 +2,7 @@
 
 ## About the Project
 
-> This project is an attempt to make New York City safe for the Tourists & Residents by equiping them with all the stats so that they can take the necessary precautions. The dataset contains the details of the various Shooting incidents that took place in New York City in the last 15 years (from 2006 to 2020). An Exploratory Data Analysis has been performed to explore the nature and uncover hidden insights that will help in detection of potential threat locations, the demographics & ethinicity of the victim & the perpretator, and estimation of number of casualties.
+This project is an attempt to make New York City safe for the Tourists & Residents by equiping them with all the stats so that they can take the necessary precautions. The dataset contains the details of the various Shooting incidents that took place in New York City in the last 15 years (from 2006 to 2020). An Exploratory Data Analysis has been performed to explore the nature and uncover hidden insights that will help in detection of potential threat locations, the demographics & ethinicity of the victim & the perpretator, and estimation of number of casualties.
 
 ## Dataset Link
 
